@@ -1,4 +1,4 @@
-#Project description:
+## Project description:
 
 React Shopping Cart Project
  Reference: https://startling-beijinho-72802b.netlify.app/ 
@@ -18,20 +18,6 @@ Build a React Shopping Cart application by following the design and functionalit
  Responsive design for desktop and mobile devices.  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # React Shopping Cart Application:
 A simple, responsive shopping cart application built using React and modern CSS.
 
@@ -48,4 +34,8 @@ A simple, responsive shopping cart application built using React and modern CSS.
 - Vite
 
 ## GitHub repository link
+https://github.com/arman788-alt/shopping-cart
+
+## Live project link  
+
 
