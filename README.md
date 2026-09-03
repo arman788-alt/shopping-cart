@@ -37,5 +37,6 @@ A simple, responsive shopping cart application built using React and modern CSS.
 https://github.com/arman788-alt/shopping-cart
 
 ## Live project link  
+ https://arman788-alt.github.io/shopping-cart/
 
 
